@@ -29,9 +29,11 @@
 ### 🚀 Latest
 <!-- LATEST:START -->
 - `2026-10-05` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-05-sop-rag-assistant): **SOP RAG Assistant** · Supply Chain · RAG, grounding guardrails
+- `2026-10-05` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-05-tool-calling-agent): **Tool-Calling Ops Agent** · AI Engineering · tool-calling agent
 - `2026-10-05` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-05-lru-cache): **LRU cache (hash map + doubly linked list)** · Python
+- `2026-10-05` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-05-dijkstra-shortest-path): **Dijkstra shortest path (binary min-heap)** · TypeScript
 
-<sub>1 applied-AI projects · 1 algorithm entries · updated automatically every day</sub>
+<sub>2 applied-AI projects · 2 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
