@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian Becerra 👋</h1>
-<p align="center"><b>Supply Chain & Logistics Analyst → building AI tools for operations</b><br/>Product Manager · Miami, FL</p>
+<p align="center"><b>Operations · Product · Business Development · Applied AI</b><br/>I turn messy operational problems into working tools · Miami, FL</p>
 
 <p align="center">
   <a href="https://sebastian-becerra.com/"><img src="https://img.shields.io/badge/Portfolio-sebastian--becerra.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -9,32 +9,40 @@
 
 ---
 
-### About me
-- 📦 I work in **supply chain and logistics**, where I see firsthand where operations lose time and money.
-- 🤖 I build **AI tools** for those problems: RAG over SOPs, agents with tool calling, LLM evals, and structured data extraction.
-- 🧭 As a **product manager**, I focus on shipping things people actually use.
-- 🔍 Currently: open to roles in **AI product, solutions engineering and software development**.
+### What I bring
+| | |
+|---|---|
+| 🏭 **Operations and infrastructure** | Supply chain and logistics analysis, plus data-center-style thinking: capacity, uptime, cost and risk |
+| 🧭 **Product** | Prioritization, experimentation, and shipping tools people actually use |
+| 🤝 **Business development** | Pipeline forecasting, pricing, partnerships, and turning data into a pitch |
+| 🤖 **Applied AI** | RAG, tool-calling agents, LLM evals, and classic ML and optimization where they fit better |
+
+🔍 **Open to:** product management, business development, data center and operations management, and AI solutions roles.
 
 ### Featured work
 | Project | What it is |
 |---------|------------|
-| [**ai-lab**](https://github.com/sebasbecerra70/ai-lab) | Working AI projects for supply chain and logistics (RAG, agents, MCP, evals), each with tests and an architecture write-up |
-| [**code-a-day**](https://github.com/sebasbecerra70/code-a-day) | One tested data structure or algorithm a day in Python, TypeScript, Java and C++ |
+| [**ai-lab**](https://github.com/sebasbecerra70/ai-lab) | Applied AI projects across data center ops, product, business development and supply chain, each with tests and an architecture write-up |
+| [**code-a-day**](https://github.com/sebasbecerra70/code-a-day) | A tested data structure or algorithm every day in Python, TypeScript, Java and C++ |
 | [**sebastian-becerra.com**](https://github.com/sebasbecerra70/sebastian-becerra.com) | My personal portfolio site (TypeScript) |
+
+### 🚀 Latest
+<!-- LATEST:START -->
+<!-- LATEST:END -->
 
 ### Toolbox
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel%20%2F%20SQL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ### GitHub activity

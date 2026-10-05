@@ -1,0 +1,23 @@
+# Refreshes the "Latest" section after both project repos have published for the day.
+name: latest
+on:
+  schedule:
+    - cron: "17 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python .github/scripts/update_latest.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet && { echo "No changes"; exit 0; }
+          git -c user.name=Sebas -c user.email=sebasbecerra70@gmail.com commit -am "Update latest projects"
+          git push
