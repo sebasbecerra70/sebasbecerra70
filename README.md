@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-11` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-11-unique-ptr-from-scratch): **unique_ptr from scratch (move-only ownership)** · C++
 - `2026-10-10` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-10-llm-eval-harness): **LLM Eval Harness** · AI Engineering · LLM evaluation, LLM-as-judge
 - `2026-10-10` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-10-array-deque): **Array deque (circular buffer that grows)** · Java
 - `2026-10-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-09-invoice-extraction): **Invoice Extraction with Guardrails** · Supply Chain · LLM structured extraction
 - `2026-10-09` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-09-trie-autocomplete): **Trie autocomplete (top-k by frequency)** · TypeScript
 - `2026-10-08` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-08-lead-scoring-model): **Explainable Lead Scoring** · Business Development · logistic regression
-- `2026-10-08` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-08-consistent-hashing-ring): **Consistent hashing ring (virtual nodes)** · Python
 
-<sub>7 applied-AI projects · 7 algorithm entries · updated automatically every day</sub>
+<sub>7 applied-AI projects · 8 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
