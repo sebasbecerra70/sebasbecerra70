@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-12` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-12-bloom-filter): **Bloom filter (optimal sizing, double hashing)** · Python
 - `2026-10-11` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-11-alert-triage-assistant): **Alert Triage Assistant** · Data Center Ops · topology correlation + LLM summary
 - `2026-10-11` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-11-unique-ptr-from-scratch): **unique_ptr from scratch (move-only ownership)** · C++
 - `2026-10-10` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-10-llm-eval-harness): **LLM Eval Harness** · AI Engineering · LLM evaluation, LLM-as-judge
 - `2026-10-10` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-10-array-deque): **Array deque (circular buffer that grows)** · Java
 - `2026-10-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-09-invoice-extraction): **Invoice Extraction with Guardrails** · Supply Chain · LLM structured extraction
-- `2026-10-09` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-09-trie-autocomplete): **Trie autocomplete (top-k by frequency)** · TypeScript
 
-<sub>8 applied-AI projects · 8 algorithm entries · updated automatically every day</sub>
+<sub>8 applied-AI projects · 9 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
