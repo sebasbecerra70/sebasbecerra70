@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-14` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-14-demand-forecasting): **Demand Forecasting Baselines** · Supply Chain · time-series forecasting, backtesting
 - `2026-10-14` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-14-open-addressing-hash-map): **Open addressing hash map (linear probing, backward-shift delete)** · Java
 - `2026-10-13` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-13-rfp-answer-rag): **RFP Answer Drafter** · Business Development · RAG (BM25) with confidence threshold
 - `2026-10-13` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-13-token-bucket-rate-limiter): **Token bucket rate limiter (injectable clock)** · TypeScript
 - `2026-10-12` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-12-rice-prioritizer): **RICE Prioritizer** · Product · scoring model, Monte Carlo sensitivity
 - `2026-10-12` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-12-bloom-filter): **Bloom filter (optimal sizing, double hashing)** · Python
-- `2026-10-11` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-11-alert-triage-assistant): **Alert Triage Assistant** · Data Center Ops · topology correlation + LLM summary
 
-<sub>10 applied-AI projects · 11 algorithm entries · updated automatically every day</sub>
+<sub>11 applied-AI projects · 11 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
