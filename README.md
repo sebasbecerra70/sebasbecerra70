@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-17` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-17-debounce-and-throttle): **Debounce and throttle** · TypeScript
 - `2026-10-16` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-16-rack-placement-optimizer): **Rack Placement Optimizer** · Data Center Ops · bin-packing heuristics (FFD, BFD, consolidation pass)
 - `2026-10-16` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-16-binary-heap): **Binary min-heap (with heapify and heapsort)** · Python
 - `2026-10-15` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-15-mcp-server-inventory): **Inventory MCP Server** · AI Engineering · Model Context Protocol (JSON-RPC 2.0), tool schemas
 - `2026-10-15` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-15-ring-buffer-template): **Ring buffer (fixed-capacity circular queue template)** · C++
 - `2026-10-14` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-14-demand-forecasting): **Demand Forecasting Baselines** · Supply Chain · time-series forecasting, backtesting
-- `2026-10-14` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-14-open-addressing-hash-map): **Open addressing hash map (linear probing, backward-shift delete)** · Java
 
-<sub>13 applied-AI projects · 13 algorithm entries · updated automatically every day</sub>
+<sub>13 applied-AI projects · 14 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
