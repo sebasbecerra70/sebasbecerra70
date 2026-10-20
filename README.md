@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-19` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-19-route-optimization): **Delivery Route Optimizer** · Supply Chain · Clarke-Wright savings heuristic, 2-opt local search
 - `2026-10-19` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-19-string-tokenizer): **String tokenizer (split, quoted fields, arithmetic lexer)** · C++
 - `2026-10-18` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-18-crm-pipeline-forecast): **CRM Pipeline Forecast** · Business Development · empirical stage conversion, Monte Carlo simulation
 - `2026-10-18` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-18-avl-tree): **AVL tree (self-balancing BST)** · Java
 - `2026-10-17` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-17-ab-test-analyzer): **A/B Test Analyzer** · Product · frequentist hypothesis testing, power analysis, chi-square SRM
 - `2026-10-17` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-17-debounce-and-throttle): **Debounce and throttle** · TypeScript
-- `2026-10-16` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-16-rack-placement-optimizer): **Rack Placement Optimizer** · Data Center Ops · bin-packing heuristics (FFD, BFD, consolidation pass)
 
-<sub>15 applied-AI projects · 16 algorithm entries · updated automatically every day</sub>
+<sub>16 applied-AI projects · 16 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
