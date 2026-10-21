@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-21` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-21-typed-event-emitter): **Type-safe event emitter** · TypeScript
 - `2026-10-20` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-20-llm-as-judge): **LLM-as-Judge with Bias Checks** · AI Engineering · LLM-as-judge, position-bias swap, Cohen's kappa
 - `2026-10-20` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-20-quickselect-kth-largest): **Quickselect: k-th largest element** · Python
 - `2026-10-19` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-19-route-optimization): **Delivery Route Optimizer** · Supply Chain · Clarke-Wright savings heuristic, 2-opt local search
 - `2026-10-19` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-19-string-tokenizer): **String tokenizer (split, quoted fields, arithmetic lexer)** · C++
 - `2026-10-18` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-18-crm-pipeline-forecast): **CRM Pipeline Forecast** · Business Development · empirical stage conversion, Monte Carlo simulation
-- `2026-10-18` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-18-avl-tree): **AVL tree (self-balancing BST)** · Java
 
-<sub>17 applied-AI projects · 17 algorithm entries · updated automatically every day</sub>
+<sub>17 applied-AI projects · 18 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
