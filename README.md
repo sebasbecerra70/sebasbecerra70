@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-22` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-22-prd-drafter): **PRD Drafter** · Product · structured elicitation, templated LLM generation, rule-based doc linting
 - `2026-10-22` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-22-bst-iterators): **BST iterators (in-order, reverse, pre/post-order)** · Java
 - `2026-10-21` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-21-incident-postmortem-generator): **Incident Postmortem Generator** · Data Center Ops · log parsing, event classification, grounded LLM drafting with checks
 - `2026-10-21` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-21-typed-event-emitter): **Type-safe event emitter** · TypeScript
 - `2026-10-20` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-20-llm-as-judge): **LLM-as-Judge with Bias Checks** · AI Engineering · LLM-as-judge, position-bias swap, Cohen's kappa
 - `2026-10-20` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-20-quickselect-kth-largest): **Quickselect: k-th largest element** · Python
-- `2026-10-19` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-19-route-optimization): **Delivery Route Optimizer** · Supply Chain · Clarke-Wright savings heuristic, 2-opt local search
 
-<sub>18 applied-AI projects · 19 algorithm entries · updated automatically every day</sub>
+<sub>19 applied-AI projects · 19 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
