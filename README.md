@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-25` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-25-promise-pool-concurrency-limit): **Promise pool with a concurrency limit** · TypeScript
 - `2026-10-24` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-24-inventory-reorder-agent): **Inventory Reorder Agent** · Supply Chain · safety stock / ROP / EOQ, policy-gated agent with LLM memos
 - `2026-10-24` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-24-knapsack-01): **0/1 knapsack (DP with item reconstruction)** · Python
 - `2026-10-23` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-23-account-research-agent): **Account Research Agent** · Business Development · multi-step tool-calling agent, BM25 search, citation grounding check
 - `2026-10-23` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-23-matrix-class-operators): **Matrix class with operator overloading** · C++
 - `2026-10-22` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-22-prd-drafter): **PRD Drafter** · Product · structured elicitation, templated LLM generation, rule-based doc linting
-- `2026-10-22` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-22-bst-iterators): **BST iterators (in-order, reverse, pre/post-order)** · Java
 
-<sub>21 applied-AI projects · 21 algorithm entries · updated automatically every day</sub>
+<sub>21 applied-AI projects · 22 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
