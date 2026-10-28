@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-28` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-28-edit-distance): **Edit distance (Levenshtein) with alignment** · Python
 - `2026-10-27` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-27-review-sentiment-insights): **Review Sentiment Insights** · Product · lexicon sentiment with negation, aspect extraction, grounded LLM summary
 - `2026-10-27` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-27-rational-number-class): **Rational number class (exact fractions)** · C++
 - `2026-10-26` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-26-disk-failure-prediction): **Disk Failure Prediction** · Data Center Ops · logistic regression, precision/recall at threshold, cost curve
 - `2026-10-26` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-26-merge-sort-and-quicksort): **Merge sort and quicksort (stable vs in-place)** · Java
 - `2026-10-25` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-25-prompt-injection-guardrails): **Prompt Injection Guardrails** · AI Engineering · heuristic injection detection, PII redaction, policy-checked tool calls
-- `2026-10-25` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-25-promise-pool-concurrency-limit): **Promise pool with a concurrency limit** · TypeScript
 
-<sub>24 applied-AI projects · 24 algorithm entries · updated automatically every day</sub>
+<sub>24 applied-AI projects · 25 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
