@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-10-30` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-30-semantic-search): **Semantic Search** · AI Engineering · hashed embeddings, BM25, reciprocal rank fusion
 - `2026-10-30` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-30-heap-sort): **Heap sort (in-place, bottom-up heapify)** · Java
 - `2026-10-29` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-29-shipment-delay-risk): **Shipment Delay Risk** · Supply Chain · AdaBoost decision stump ensemble
 - `2026-10-29` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-10-29-deep-equal): **Deep equality (cycles, Maps, Sets, Dates)** · TypeScript
 - `2026-10-28` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-28-pricing-simulator): **Pricing Simulator** · Business Development · log-log elasticity regression, constant-elasticity demand, price waterfall
 - `2026-10-28` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-10-28-edit-distance): **Edit distance (Levenshtein) with alignment** · Python
-- `2026-10-27` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-27-review-sentiment-insights): **Review Sentiment Insights** · Product · lexicon sentiment with negation, aspect extraction, grounded LLM summary
 
-<sub>26 applied-AI projects · 27 algorithm entries · updated automatically every day</sub>
+<sub>27 applied-AI projects · 27 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
