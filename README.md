@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-02` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-02-json-parser): **JSON parser (recursive descent)** · TypeScript
 - `2026-11-01` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-01-churn-prediction): **Churn Prediction** · Product · cohort analysis, logistic regression
 - `2026-11-01` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-01-longest-increasing-subsequence): **Longest increasing subsequence (patience sorting)** · Python
 - `2026-10-31` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-31-change-risk-scorer): **Change Risk Scorer** · Data Center Ops · dependency-graph failure simulation, Bayesian failure rates, risk matrix
 - `2026-10-31` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-10-31-big-integer-arithmetic): **Big integer arithmetic (base 10^9 limbs)** · C++
 - `2026-10-30` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-10-30-semantic-search): **Semantic Search** · AI Engineering · hashed embeddings, BM25, reciprocal rank fusion
-- `2026-10-30` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-10-30-heap-sort): **Heap sort (in-place, bottom-up heapify)** · Java
 
-<sub>29 applied-AI projects · 29 algorithm entries · updated automatically every day</sub>
+<sub>29 applied-AI projects · 30 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
