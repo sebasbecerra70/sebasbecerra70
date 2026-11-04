@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-04` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-04-sparse-matrix): **Sparse matrix (CSR format)** · C++
 - `2026-11-03` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-03-meeting-action-items): **Meeting Action Items** · Operations · LLM structured extraction with schema validation and regex fallback
 - `2026-11-03` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-03-counting-and-radix-sort): **Counting sort and LSD radix sort** · Java
 - `2026-11-02` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-02-outreach-personalization): **Outreach Personalization** · Business Development · LLM generation, rule-based evals, critique-and-revise
 - `2026-11-02` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-02-json-parser): **JSON parser (recursive descent)** · TypeScript
 - `2026-11-01` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-01-churn-prediction): **Churn Prediction** · Product · cohort analysis, logistic regression
-- `2026-11-01` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-01-longest-increasing-subsequence): **Longest increasing subsequence (patience sorting)** · Python
 
-<sub>31 applied-AI projects · 31 algorithm entries · updated automatically every day</sub>
+<sub>31 applied-AI projects · 32 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
