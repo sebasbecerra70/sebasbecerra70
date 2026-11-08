@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-08` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-08-bit-manipulation-tricks): **Bit manipulation tricks** · C++
 - `2026-11-07` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-07-partner-fit-scorer): **Partner Fit Scorer** · Business Development · AHP pairwise weights, multi-criteria scoring, sensitivity analysis
 - `2026-11-07` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-07-bounded-blocking-queue): **Bounded blocking queue (lock + two conditions)** · Java
 - `2026-11-06` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-06-user-interview-synthesizer): **User Interview Synthesizer** · Product · codebook tagging, affinity clustering, citation-checked LLM summary
 - `2026-11-06` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-06-binary-search-variants): **Binary search variants (bounds, rotated, answer search)** · TypeScript
 - `2026-11-05` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-05-energy-aware-job-scheduler): **Energy-Aware Job Scheduler** · Data Center Ops · constrained greedy scheduling with capacity, cost/carbon objective
-- `2026-11-05` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-05-coin-change): **Coin change (min coins and number of ways)** · Python
 
-<sub>35 applied-AI projects · 35 algorithm entries · updated automatically every day</sub>
+<sub>35 applied-AI projects · 36 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
