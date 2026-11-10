@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-09-prompt-caching-cost-model): **Prompt Caching Cost Model** · AI Engineering · discrete-event simulation of cache TTLs, cost modeling
 - `2026-11-09` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-09-kmp-string-search): **KMP string search (prefix function)** · Python
 - `2026-11-08` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-08-warehouse-slotting): **Warehouse Slotting Optimizer** · Supply Chain · ABC/Pareto analysis, greedy assignment, order-pick route simulation
 - `2026-11-08` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-08-bit-manipulation-tricks): **Bit manipulation tricks** · C++
 - `2026-11-07` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-07-partner-fit-scorer): **Partner Fit Scorer** · Business Development · AHP pairwise weights, multi-criteria scoring, sensitivity analysis
 - `2026-11-07` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-07-bounded-blocking-queue): **Bounded blocking queue (lock + two conditions)** · Java
-- `2026-11-06` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-06-user-interview-synthesizer): **User Interview Synthesizer** · Product · codebook tagging, affinity clustering, citation-checked LLM summary
 
-<sub>36 applied-AI projects · 37 algorithm entries · updated automatically every day</sub>
+<sub>37 applied-AI projects · 37 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
