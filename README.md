@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-10` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-10-sla-error-budget): **SLA Error Budget Calculator** · Data Center Ops · SRE burn-rate math, multi-window alert replay
 - `2026-11-10` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-10-union-find): **Union-find (path compression + union by size)** · TypeScript
 - `2026-11-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-09-prompt-caching-cost-model): **Prompt Caching Cost Model** · AI Engineering · discrete-event simulation of cache TTLs, cost modeling
 - `2026-11-09` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-09-kmp-string-search): **KMP string search (prefix function)** · Python
 - `2026-11-08` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-08-warehouse-slotting): **Warehouse Slotting Optimizer** · Supply Chain · ABC/Pareto analysis, greedy assignment, order-pick route simulation
 - `2026-11-08` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-08-bit-manipulation-tricks): **Bit manipulation tricks** · C++
-- `2026-11-07` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-07-partner-fit-scorer): **Partner Fit Scorer** · Business Development · AHP pairwise weights, multi-criteria scoring, sensitivity analysis
 
-<sub>37 applied-AI projects · 38 algorithm entries · updated automatically every day</sub>
+<sub>38 applied-AI projects · 38 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
