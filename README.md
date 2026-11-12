@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-11` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-11-metrics-anomaly-detection): **Product Metrics Anomaly Detection** · Product · seasonal decomposition, robust z-score (median/MAD)
 - `2026-11-11` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-11-producer-consumer-executor): **Producer-consumer executor (fixed worker pool)** · Java
 - `2026-11-10` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-10-sla-error-budget): **SLA Error Budget Calculator** · Data Center Ops · SRE burn-rate math, multi-window alert replay
 - `2026-11-10` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-10-union-find): **Union-find (path compression + union by size)** · TypeScript
 - `2026-11-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-09-prompt-caching-cost-model): **Prompt Caching Cost Model** · AI Engineering · discrete-event simulation of cache TTLs, cost modeling
 - `2026-11-09` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-09-kmp-string-search): **KMP string search (prefix function)** · Python
-- `2026-11-08` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-08-warehouse-slotting): **Warehouse Slotting Optimizer** · Supply Chain · ABC/Pareto analysis, greedy assignment, order-pick route simulation
 
-<sub>38 applied-AI projects · 39 algorithm entries · updated automatically every day</sub>
+<sub>39 applied-AI projects · 39 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
