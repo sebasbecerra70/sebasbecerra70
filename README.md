@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-12` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-12-contract-clause-extractor): **Contract Clause Extractor** · Business Development · LLM structured extraction with validation, regex rules fallback
 - `2026-11-12` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-12-sieve-of-eratosthenes): **Sieve of Eratosthenes (plus linear and segmented sieves)** · C++
 - `2026-11-11` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-11-metrics-anomaly-detection): **Product Metrics Anomaly Detection** · Product · seasonal decomposition, robust z-score (median/MAD)
 - `2026-11-11` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-11-producer-consumer-executor): **Producer-consumer executor (fixed worker pool)** · Java
 - `2026-11-10` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-10-sla-error-budget): **SLA Error Budget Calculator** · Data Center Ops · SRE burn-rate math, multi-window alert replay
 - `2026-11-10` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-10-union-find): **Union-find (path compression + union by size)** · TypeScript
-- `2026-11-09` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-09-prompt-caching-cost-model): **Prompt Caching Cost Model** · AI Engineering · discrete-event simulation of cache TTLs, cost modeling
 
-<sub>39 applied-AI projects · 40 algorithm entries · updated automatically every day</sub>
+<sub>40 applied-AI projects · 40 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
