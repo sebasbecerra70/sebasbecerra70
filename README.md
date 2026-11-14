@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-14` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-14-topological-sort-kahn): **Topological sort (Kahn's algorithm)** · TypeScript
 - `2026-11-13` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-13-supplier-risk-scoring): **Supplier Risk Scoring** · Supply Chain · weighted composite index, piecewise scoring, scenario stress testing
 - `2026-11-13` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-13-rabin-karp): **Rabin-Karp rolling-hash search** · Python
 - `2026-11-12` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-12-contract-clause-extractor): **Contract Clause Extractor** · Business Development · LLM structured extraction with validation, regex rules fallback
 - `2026-11-12` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-12-sieve-of-eratosthenes): **Sieve of Eratosthenes (plus linear and segmented sieves)** · C++
 - `2026-11-11` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-11-metrics-anomaly-detection): **Product Metrics Anomaly Detection** · Product · seasonal decomposition, robust z-score (median/MAD)
-- `2026-11-11` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-11-producer-consumer-executor): **Producer-consumer executor (fixed worker pool)** · Java
 
-<sub>41 applied-AI projects · 41 algorithm entries · updated automatically every day</sub>
+<sub>41 applied-AI projects · 42 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
