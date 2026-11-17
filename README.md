@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-16` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-16-roadmap-scheduler): **Roadmap Scheduler** · Product · topological sort, critical path method, resource-constrained list scheduling
 - `2026-11-16` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-16-segment-tree-range-sum): **Segment tree (range sum, lazy range add)** · Python
 - `2026-11-15` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-15-runbook-qa): **Runbook Q&A** · Data Center Ops · RAG with BM25, citation validation, safety refusal guard
 - `2026-11-15` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-15-read-write-lock-cache): **Read-write lock and a read-mostly cache** · Java
 - `2026-11-14` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-14-multi-agent-planner): **Multi-Agent Planner** · AI Engineering · multi-agent orchestration, tool calling, critic loop, deterministic mock LLM
 - `2026-11-14` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-14-topological-sort-kahn): **Topological sort (Kahn's algorithm)** · TypeScript
-- `2026-11-13` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-13-supplier-risk-scoring): **Supplier Risk Scoring** · Supply Chain · weighted composite index, piecewise scoring, scenario stress testing
 
-<sub>43 applied-AI projects · 44 algorithm entries · updated automatically every day</sub>
+<sub>44 applied-AI projects · 44 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
