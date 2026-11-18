@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-18` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-18-builder-pattern): **Builder pattern (immutable HTTP request)** · Java
 - `2026-11-17` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-17-market-sizing): **Market Sizing Model** · Business Development · top-down vs bottom-up sizing, tornado and two-way sensitivity analysis
 - `2026-11-17` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-17-merge-intervals): **Merge, insert, and intersect intervals** · TypeScript
 - `2026-11-16` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-16-roadmap-scheduler): **Roadmap Scheduler** · Product · topological sort, critical path method, resource-constrained list scheduling
 - `2026-11-16` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-16-segment-tree-range-sum): **Segment tree (range sum, lazy range add)** · Python
 - `2026-11-15` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-15-runbook-qa): **Runbook Q&A** · Data Center Ops · RAG with BM25, citation validation, safety refusal guard
-- `2026-11-15` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-15-read-write-lock-cache): **Read-write lock and a read-mostly cache** · Java
 
-<sub>45 applied-AI projects · 45 algorithm entries · updated automatically every day</sub>
+<sub>45 applied-AI projects · 46 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
