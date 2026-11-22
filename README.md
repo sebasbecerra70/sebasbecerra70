@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-22` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-22-strategy-pattern-pricing): **Strategy pattern (pluggable pricing rules)** · Java
 - `2026-11-21` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-21-okr-reporter): **OKR Reporter** · Product · pace-adjusted progress, linear trend forecast, grounded LLM narrative
 - `2026-11-21` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-21-observable-store): **Observable store with selectors** · TypeScript
 - `2026-11-20` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-20-ticket-routing): **IT Ticket Routing** · Operations · TF-IDF, nearest-centroid (Rocchio) classifier, confidence and margin thresholds
 - `2026-11-20` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-20-fenwick-tree): **Fenwick tree (binary indexed tree)** · Python
 - `2026-11-19` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-19-structured-output-validator): **Structured Output Validator** · AI Engineering · JSON Schema validation, deterministic repair, error-guided retry loop
-- `2026-11-19` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-19-extended-euclid-gcd): **Extended Euclidean algorithm (inverses, Diophantine, CRT)** · C++
 
-<sub>49 applied-AI projects · 49 algorithm entries · updated automatically every day</sub>
+<sub>49 applied-AI projects · 50 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
