@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-25` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-25-ttl-cache): **TTL cache with LRU bound** · TypeScript
 - `2026-11-24` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-24-text-to-sql): **Text-to-SQL Analyst** · AI Engineering · schema linking, LLM SQL generation, layered read-only guard, error-feedback retry
 - `2026-11-24` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-24-n-queens-backtracking): **N-Queens (backtracking with bitmasks)** · Python
 - `2026-11-23` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-23-safety-stock-calculator): **Safety Stock Calculator** · Supply Chain · normal approximation, loss function fill rate, Monte Carlo validation
 - `2026-11-23` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-23-prefix-sums-2d): **2D prefix sums (range sum queries and difference arrays)** · C++
 - `2026-11-22` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-22-competitive-intel-digest): **Competitive Intel Digest** · Business Development · structured pricing diff, noise-filtered text diff, severity rules, cited LLM summary
-- `2026-11-22` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-22-strategy-pattern-pricing): **Strategy pattern (pluggable pricing rules)** · Java
 
-<sub>52 applied-AI projects · 52 algorithm entries · updated automatically every day</sub>
+<sub>52 applied-AI projects · 53 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
