@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-26` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-26-release-notes-generator): **Release Notes Generator** · Product · conventional-commit parsing, semver inference, guarded LLM rewrite
 - `2026-11-26` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-26-observer-pattern-price-alerts): **Observer pattern (stock price alerts)** · Java
 - `2026-11-25` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-25-log-anomaly-detection): **Log Anomaly Detection** · Data Center Ops · Drain parse-tree template mining, Poisson/robust z-score frequency anomalies
 - `2026-11-25` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-25-ttl-cache): **TTL cache with LRU bound** · TypeScript
 - `2026-11-24` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-24-text-to-sql): **Text-to-SQL Analyst** · AI Engineering · schema linking, LLM SQL generation, layered read-only guard, error-feedback retry
 - `2026-11-24` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/python/2026-11-24-n-queens-backtracking): **N-Queens (backtracking with bitmasks)** · Python
-- `2026-11-23` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-23-safety-stock-calculator): **Safety Stock Calculator** · Supply Chain · normal approximation, loss function fill rate, Monte Carlo validation
 
-<sub>53 applied-AI projects · 54 algorithm entries · updated automatically every day</sub>
+<sub>54 applied-AI projects · 54 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
