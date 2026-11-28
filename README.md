@@ -28,14 +28,14 @@
 
 ### 🚀 Latest
 <!-- LATEST:START -->
+- `2026-11-27` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-27-sales-call-summarizer): **Sales Call Summarizer** · Business Development · LLM structured extraction with evidence verification, weighted health scoring
 - `2026-11-27` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/cpp/2026-11-27-monotonic-stack-next-greater): **Monotonic stack (next greater element)** · C++
 - `2026-11-26` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-26-release-notes-generator): **Release Notes Generator** · Product · conventional-commit parsing, semver inference, guarded LLM rewrite
 - `2026-11-26` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/java/2026-11-26-observer-pattern-price-alerts): **Observer pattern (stock price alerts)** · Java
 - `2026-11-25` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-25-log-anomaly-detection): **Log Anomaly Detection** · Data Center Ops · Drain parse-tree template mining, Poisson/robust z-score frequency anomalies
 - `2026-11-25` [code-a-day](https://github.com/sebasbecerra70/code-a-day/tree/main/typescript/2026-11-25-ttl-cache): **TTL cache with LRU bound** · TypeScript
-- `2026-11-24` [ai-lab](https://github.com/sebasbecerra70/ai-lab/tree/main/projects/2026-11-24-text-to-sql): **Text-to-SQL Analyst** · AI Engineering · schema linking, LLM SQL generation, layered read-only guard, error-feedback retry
 
-<sub>54 applied-AI projects · 55 algorithm entries · updated automatically every day</sub>
+<sub>55 applied-AI projects · 55 algorithm entries · updated automatically every day</sub>
 <!-- LATEST:END -->
 
 ### Toolbox
